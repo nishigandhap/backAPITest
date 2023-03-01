@@ -99,6 +99,7 @@ npm run test
 
 ## Git clone
 ```
-git clone 
+git clone https://github.com/nishigandhap/backWebTest
 ```
 ## Screenshot
+<img width="739" alt="BackBase API" src="https://user-images.githubusercontent.com/58659856/222151631-46068993-e896-4c52-b6a0-0bf10ee3bbdf.png">
