@@ -81,7 +81,7 @@ This should open the Cypress Test Runner in your default web browser.
 With these steps, you should have both Node.js and Cypress installed on your computer and ready to use. If you encounter any issues during the installation process, refer to the official documentation for Node.js and Cypress(https://docs.cypress.io/) for more information and support.
 
 
-For APi test, the allure report was created since it is API testing. Well, the allure reporting is covered in Web testing.
+For APi test, the allure report was not created since it is API testing. Well, the allure reporting is covered in Web testing.
 
 
 
