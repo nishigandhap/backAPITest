@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "slug": "minus-induct-comoros-gvane1",
+            "title": "minus induct Comoros",
+            "description": "Buckinghamshire pail Versatile BMX apud",
+            "body": "Soft California Cab initiatives male olive geez metrics Coupe dribble architect Bentley Gasoline Borders Account turquoise South hybrid segregate Bicycle",
+            "createdAt": "2023-02-27T10:32:56.066Z",
+            "updatedAt": "2023-02-27T10:32:56.066Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "deckowintermediate",
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+     
+        {
+            "slug": "testcheck-mv6qlf",
+            "title": "TestCheck",
+            "description": "Check the description",
+            "body": "",
+            "createdAt": "2023-02-27T10:26:29.806Z",
+            "updatedAt": "2023-02-27T10:26:29.806Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 5,
+            "author": {
+                "username": "niship",
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+       
+    ],
+    "articlesCount": 28812
+}

@@ -1,0 +1,25 @@
+{
+    "articles": [
+        {
+            "slug": "for-comment-nazif-qlg4qx",
+            "title": "For comment Nazif",
+            "description": "",
+            "body": "",
+            "createdAt": "2022-09-23T21:17:56.023Z",
+            "updatedAt": "2023-03-01T08:49:08.409Z",
+            "tagList": [
+                "matrix"
+            ],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "nazif81",
+                "bio": "ASDASDASD",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUBg_hOTQvFYfujEB0HJO9d8eZAWq1Updxg&usqp=CAU",
+                "following": false
+            }
+        }
+ 
+    ],
+    "articlesCount": 116
+}
